@@ -1,0 +1,11 @@
+GPU is necessary to run the code.
+Preferred platform to run the code is Google Colab. 
+
+
+!pip install ultralytics
+!pip install roboflow
+!pip install numpy==1.22.4
+!pip install supervision==0.1.0
+!pip install glob
+!pip install os
+!pip install display 
