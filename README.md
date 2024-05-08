@@ -11,3 +11,10 @@ Parking Management: Employ it in counting and monitoring available spaces in a l
 Security and Law Enforcement: Use the model to identify unusual or suspicious activity by tracking the frequency and type of vehicles in particular areas at various times.
 
 Retail Studies: Use it to analyze customer visits in a store parking lot by identifying and counting the types of vehicles at different intervals, potentially understanding the store's peak hours or client habits.
+
+## Credits 
+Yolov9
+
+Yolov8
+
+Roboflow
